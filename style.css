@@ -1,0 +1,21 @@
+img{
+height: 400px;
+    width: 400px;
+}
+body{
+    background-color: orange;
+    text-align: center;
+}
+div{
+    margin-top: 25px;
+}
+.image-section{
+    display:flex;
+        justify-content:center;
+}
+.section-style1{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: orange;
+    
+}
